@@ -1,12 +1,17 @@
 # Hi there, I'm Giridhari Khan 👋
 
-**Aspiring Data Analyst** | ECE Graduate | Manufacturing → Data Analytics
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giridharikhan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giridhari-khan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khangiridhari8967@gmail.com)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+in+Progress;Build+with+Gen+AI;Turning+Data+into+Actionable+Insights;Python · SQL · Excel · Power BI" alt="Typing SVG" />
+</div>
 
----
+<!-- 🔗 Update these links with your own social media and contact information -->
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/Giridhari-khan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:khangiridhari8967@issy.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
+
 
 ## 👨‍💻 About Me
 
@@ -21,7 +26,8 @@ Currently levelling up through the **IBM & Career 247 Data Analytics Professiona
 - 💬 Ask me about: Excel, SQL queries, data pipelines, or my journey from manufacturing to data
 
 ---
-
+### [🏆 Check Out My Full Portfolio Website (Soon Live)](https://Giridhari-Khan.github.io/)
+---
 ## 🛠️ Tech Stack
 
 ### Languages & Querying
@@ -45,9 +51,9 @@ Currently levelling up through the **IBM & Career 247 Data Analytics Professiona
 
 ---
 
-## 🚀 Featured Projects
+## 🔭 What I'm Currently Working On 
 
-### 🔒 [Retainly — Client Retention Analytics Platform](https://github.com/Im-Crypto-Hodler)
+### 🔒 [Retainly — Client Retention Analytics Platform](https://theretainly.vercel.app/)
 > **SQL · Supabase · Sentiment Analysis · Python**
 
 A data platform built to help SaaS businesses stop client churn before it happens.
@@ -57,6 +63,7 @@ A data platform built to help SaaS businesses stop client churn before it happen
 - Translated raw behavioral data into actionable retention insights
 
 ---
+## 🚀 Featured Projects
 
 ### 📊 [Data Analysis Practice Projects](https://github.com/Im-Crypto-Hodler)
 > **Python · Pandas · Jupyter Notebook · EDA**
@@ -105,12 +112,14 @@ A growing collection of end-to-end data analysis exercises.
 I'm actively looking for **Data Analyst Intern** or **Junior Data Analyst** opportunities.  
 If you're working on something data-driven or just want to talk shop — reach out!
 
+
+
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giridharikhan)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khangiridhari8967@gmail.com)
 
 ---
 
 <p align="center">
-  <i>"Data is not just numbers — it's the story of what actually happened."</i><br/>
+  <i>"Data is not just numbers - it's the story of what actually happened."</i><br/>
   <sub>⭐ From Bengaluru, India · Open to Remote & On-site Opportunities</sub>
 </p>
