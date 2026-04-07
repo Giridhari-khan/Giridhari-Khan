@@ -1,15 +1,15 @@
 # Hi there, I'm Giridhari Khan 👋
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+in+Progress;Build+with+Gen+AI;Turning+Data+into+Actionable+Insights;Python · SQL · Excel · Power BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+in+Progress;Building+with+Gen+AI;Turning+Data+into+Actionable+Insights;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Giridhari-khan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:khangiridhari8967@issy.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/giridharikhan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/Giridhari-Khan"><img src="https://img.shields.io/badge/GitHub-Giridhari--Khan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:khangiridhari8967@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
@@ -79,20 +79,23 @@ A growing collection of end-to-end data analysis exercises.
 
 | Certification | Issuer | Status |
 |---|---|---|
-| Data Analytics Professional Certificate | IBM & Career 247 | 🟡 In Progress (July 2025) |
+| Data Analytics Professional Certificate | IBM & Career 247 | 🟡 In Progress (July 2026) |
 | Digital Marketing | Coursera | ✅ Completed |
 
-**IBM Certificate Modules:** Excel · Python · Statistics · EDA · SQL · Tableau · Capstone Projects
+**IBM Certificate Modules:** Excel · Python · Statistics · (EDA) · SQL · Tableau · Power BI · Soft Skill · Capstone Projects
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Im-Crypto-Hodler&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Crypto-Hodler&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Giridhari-khan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giridhari-khan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Giridhari-khan&theme=tokyonight&hide_border=true" width="60%" />
+</p>
 ---
 
 ## 🧭 My Journey
@@ -101,7 +104,7 @@ A growing collection of end-to-end data analysis exercises.
 📦 Manufacturing Operations (2022–2023)
    └─ Tracked production KPIs, quality metrics & process bottlenecks
        └─ Realized data tells the most important stories
-           └─ 🎯 Pivoted to Data Analytics (2024–Present)
+           └─ 🎯 Pivoted to Data Analytics + Freelancing (2024–Present)
                └─ Python · SQL · Excel · BI Tools · Real Projects
 ```
 
