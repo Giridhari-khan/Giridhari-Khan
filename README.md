@@ -143,5 +143,5 @@ If you're working on something data-driven or just want to talk shop — reach o
 
 <p align="center">
   <i>"Data is not just numbers - it's the story of what actually happened."</i><br/>
-  <sub>⭐ From Bengaluru, India · Open to Remote & On-site Opportunities</sub>
+  <sub>The tools are how.The thinking is what matters</sub>
 </p>
