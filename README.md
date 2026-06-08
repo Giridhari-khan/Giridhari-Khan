@@ -63,6 +63,17 @@ A data platform built to help SaaS businesses stop client churn before it happen
 - Translated raw behavioral data into actionable retention insights
 
 ---
+## 🚀 Students Social Media Addiction and its effects.
+
+### 📊 [Data Analysis Practice Projects](https://github.com/Im-Crypto-Hodler)
+> **PowerBi · Excle · SQL · EDA**
+
+A growing collection of end-to-end data analysis exercises.
+- Dataset **cleaning, transformation, and feature engineering** using Pandas
+- **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
+- SQL query practice — filtering, aggregation, and joins on sample databases
+
+---
 ## 🚀 Featured Projects
 
 ### 📊 [Data Analysis Practice Projects](https://github.com/Im-Crypto-Hodler)
@@ -80,7 +91,7 @@ A growing collection of end-to-end data analysis exercises.
 | Certification | Issuer | Status |
 |---|---|---|
 | Data Analytics Professional Certificate | IBM & Career 247 | 🟡 In Progress (July 2026) |
-| Digital Marketing | Coursera | ✅ Completed |
+| Digital Marketing | Google | ✅ Completed |
 
 **IBM Certificate Modules:** Excel · Python · Statistics · (EDA) · SQL · Tableau · Power BI · Soft Skill · Capstone Projects
 
