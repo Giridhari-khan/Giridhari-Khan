@@ -63,9 +63,20 @@ A data platform built to help SaaS businesses stop client churn before it happen
 - Translated raw behavioral data into actionable retention insights
 
 ---
-## 🚀 Students Social Media Addiction and its effects.
+## 🚀 Featured Projects
 
-### 📊 [Data Analysis Practice Projects](https://github.com/Im-Crypto-Hodler)
+### 1. [Data Analysis Practice Projects](https://github.com/Im-Crypto-Hodler)
+> **Python · Pandas · Jupyter Notebook · EDA**
+
+A growing collection of end-to-end data analysis exercises.
+- Dataset **cleaning, transformation, and feature engineering** using Pandas
+- **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
+- SQL query practice — filtering, aggregation, and joins on sample databases
+
+
+
+
+### 2. [Students Social Media Addiction and its effects.](https://github.com/Im-Crypto-Hodler)
 > **PowerBi · Excle · SQL · EDA**
 
 A growing collection of end-to-end data analysis exercises.
@@ -73,11 +84,8 @@ A growing collection of end-to-end data analysis exercises.
 - **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
 - SQL query practice — filtering, aggregation, and joins on sample databases
 
----
-## 🚀 Featured Projects
-
-### 📊 [Data Analysis Practice Projects](https://github.com/Im-Crypto-Hodler)
-> **Python · Pandas · Jupyter Notebook · EDA**
+### 3. [Retail Book Store.](https://github.com/Im-Crypto-Hodler)
+> **SQL · EDA**
 
 A growing collection of end-to-end data analysis exercises.
 - Dataset **cleaning, transformation, and feature engineering** using Pandas
