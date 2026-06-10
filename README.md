@@ -84,7 +84,7 @@ A growing collection of end-to-end data analysis exercises.
 - **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
 - SQL query practice — filtering, aggregation, and joins on sample databases
 
-### 3. [Retail Book Store.](https://github.com/Im-Crypto-Hodler)
+### 3. [Retail Book Store Analysis.](https://github.com/Im-Crypto-Hodler)
 > **SQL · EDA**
 
 A growing collection of end-to-end data analysis exercises.
