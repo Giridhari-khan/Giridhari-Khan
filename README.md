@@ -1,7 +1,7 @@
 # Hi there, I'm Giridhari Khan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+in+Progress;Building+with+Gen+AI;Turning+Data+into+Actionable+Insights;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst;Building+with+Gen+AI;Turning+Data+into+Actionable+Insights;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI" alt="Typing SVG" />
 </div>
 
 <p align="center">
