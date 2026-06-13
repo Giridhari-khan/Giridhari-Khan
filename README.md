@@ -65,13 +65,11 @@ A data platform built to help SaaS businesses stop client churn before it happen
 ---
 ## 🚀 Featured Projects
 
-### 1. [Data Analysis Practice Projects](https://github.com/Im-Crypto-Hodler)
-> **Python · Pandas · Jupyter Notebook · EDA**
+### 1. [OFC Airdrop Intelligence Dashboard](https://dune.com/giridharikhan/sample1) | SQL, Dune Analytics, Blockchain Data, Key Metrics — 2026
 
-A growing collection of end-to-end data analysis exercises.
-- Dataset **cleaning, transformation, and feature engineering** using Pandas
-- **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
-- SQL query practice — filtering, aggregation, and joins on sample databases
+- Queried on-chain blockchain data using SQL on Dune Analytics to track OFC airdrop distributions and wallet activity
+- Built interactive dashboard with key metrics including airdrop volume, recipient count, and token flow trends
+- Identified patterns in wallet behavior and airdrop eligibility criteria to surface actionable insights for stakeholders
 
 
 
