@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Electronics & Communication Engineering graduate making a deliberate pivot into **Data Analytics**. My background in manufacturing operations gave me a real-world appreciation for what good data can do — I tracked production metrics, flagged bottlenecks, and built a data-driven mindset long before I wrote my first line of Python.
+Electronics & Communication Engineering graduate making a deliberate pivot into **Data Analytics**. My background in manufacturing operations gave me a real-world appreciation for what good data can do - I tracked production metrics, flagged bottlenecks, and built a data-driven mindset long before I wrote my first line of Python.
 
 Currently levelling up through the **IBM & Career 247 Data Analytics Professional Certificate** (Expected: July 2026), while building hands-on projects in SQL, Python, and BI tools.
 
@@ -32,6 +32,8 @@ Currently levelling up through the **IBM & Career 247 Data Analytics Professiona
 | Project | Tools | Link |
 |---|---|---|
 | OFC Airdrop Intelligence Dashboard | SQL, Dune Analytics | [View →](https://dune.com/giridharikhan/sample1) |
+| Attendance app (Database design and Dashboard) | SQL, Supabase, visualization  ) | [Soon →](#) |
+| Students Social Media Addiction and its effects | Power BI, Power query | [Soon →](#) |
 | Retainly — Client Retention Platform | SQL, Supabase, Python | [View →](https://theretainly.vercel.app/) |
 | EDA Practice Projects | Python, Pandas, Matplotlib | [View →](#) |
 
