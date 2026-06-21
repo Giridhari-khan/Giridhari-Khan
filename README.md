@@ -17,13 +17,23 @@
 
 Electronics & Communication Engineering graduate making a deliberate pivot into **Data Analytics**. My background in manufacturing operations gave me a real-world appreciation for what good data can do — I tracked production metrics, flagged bottlenecks, and built a data-driven mindset long before I wrote my first line of Python.
 
-Currently levelling up through the **IBM & Career 247 Data Analytics Professional Certificate** (Expected: July 2025), while building hands-on projects in SQL, Python, and BI tools.
+Currently levelling up through the **IBM & Career 247 Data Analytics Professional Certificate** (Expected: July 2026), while building hands-on projects in SQL, Python, and BI tools.
 
 - 🔭 Currently working on: client retention analytics & EDA practice projects
 - 🌱 Learning: Python (Pandas, NumPy), SQL, Tableau, Statistics & EDA
 - 🎯 Goal: Land a **Data Analyst Intern / Junior Data Analyst** role
 - 📍 Based in: Bengaluru, Karnataka, India
 - 💬 Ask me about: Excel, SQL queries, data pipelines, or my journey from manufacturing to data
+
+---
+
+## 🗂️ Projects
+
+| Project | Tools | Link |
+|---|---|---|
+| OFC Airdrop Intelligence Dashboard | SQL, Dune Analytics | [View →](https://dune.com/giridharikhan/sample1) |
+| Retainly — Client Retention Platform | SQL, Supabase, Python | [View →](https://theretainly.vercel.app/) |
+| EDA Practice Projects | Python, Pandas, Matplotlib | [View →](#) |
 
 ---
 ### [🏆 Check Out My Full Portfolio Website (Soon Live)](https://Giridhari-Khan.github.io/)
@@ -53,14 +63,21 @@ Currently levelling up through the **IBM & Career 247 Data Analytics Professiona
 
 ## 🔭 What I'm Currently Working On 
 
-### 🔒 [Retainly — Client Retention Analytics Platform](https://theretainly.vercel.app/)
-> **SQL · Supabase · Sentiment Analysis · Python**
+### 1. [OFC Airdrop Intelligence Dashboard](https://github.com/Giridhari-khan/Dune-Dashboard-for-OFC-airdrop-report) | SQL, Dune Analytics, Blockchain Data, Key Metrics — 2026
 
-A data platform built to help SaaS businesses stop client churn before it happens.
-- Designed and deployed a **database schema in Supabase** to store and query client interaction data
-- Built a **keyword-based sentiment classifier** to flag at-risk clients for early intervention
-- Engineered a data pipeline tracking **response rates, sentiment trends, and engagement metrics**
-- Translated raw behavioral data into actionable retention insights
+- Queried on-chain blockchain data using SQL on Dune Analytics to track OFC airdrop distributions and wallet activity
+- Built interactive dashboard with key metrics including airdrop volume, recipient count, and token flow trends
+- Identified patterns in wallet behavior and airdrop eligibility criteria to surface actionable insights for stakeholders
+
+<img width="1188" height="536" alt="image" src="https://github.com/user-attachments/assets/6d9cbac9-e764-4c09-b757-99aa261a1fae" />
+
+### 🔒 [Database design for Attendance app + Client KPI and Dashboard ]()
+> **SQL · Supabase · Dashboard · Key Metrics**
+
+- Built database schema and executed SQL queries in Supabase to store and retrieve client data for SaaS platform
+- Implemented Database schema relation with in 27+ tables
+- Built interactive web dashboard, KPIs and automated calculations enabling clients to monitor real-time employee
+status and generate operational insights
 
 ---
 ## 🚀 Featured Projects
@@ -74,7 +91,7 @@ A data platform built to help SaaS businesses stop client churn before it happen
 <img width="1188" height="536" alt="image" src="https://github.com/user-attachments/assets/6d9cbac9-e764-4c09-b757-99aa261a1fae" />
 
 
-### 2. [Students Social Media Addiction and its effects.](https://github.com/Im-Crypto-Hodler)
+### 2. [Students Social Media Addiction and its effects.](https://github.com/Giridhari-khan)
 > **PowerBi · Excle · SQL · EDA**
 
 A growing collection of end-to-end data analysis exercises.
@@ -82,13 +99,22 @@ A growing collection of end-to-end data analysis exercises.
 - **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
 - SQL query practice — filtering, aggregation, and joins on sample databases
 
-### 3. [Retail Book Store Analysis.](https://github.com/Im-Crypto-Hodler)
+### 3. [Retail Book Store Analysis.](https://github.com/Giridhari-khan)
 > **SQL · EDA**
 
 A growing collection of end-to-end data analysis exercises.
 - Dataset **cleaning, transformation, and feature engineering** using Pandas
 - **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
 - SQL query practice — filtering, aggregation, and joins on sample databases
+
+### 4. [Retainly — Client Retention Analytics Platform](https://theretainly.vercel.app/)
+> **SQL · Supabase · Sentiment Analysis · Python**
+
+A data platform built to help SaaS businesses stop client churn before it happens.
+- Designed and deployed a **database schema in Supabase** to store and query client interaction data
+- Built a **keyword-based sentiment classifier** to flag at-risk clients for early intervention
+- Engineered a data pipeline tracking **response rates, sentiment trends, and engagement metrics**
+- Translated raw behavioral data into actionable retention insights
 
 ---
 
@@ -97,7 +123,7 @@ A growing collection of end-to-end data analysis exercises.
 | Certification | Issuer | Status |
 |---|---|---|
 | Data Analytics Professional Certificate | IBM & Career 247 | 🟡 In Progress (July 2026) |
-| Digital Marketing | Google | ✅ Completed |
+
 
 **IBM Certificate Modules:** Excel · Python · Statistics · (EDA) · SQL · Tableau · Power BI · Soft Skill · Capstone Projects
 
