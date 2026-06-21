@@ -65,7 +65,7 @@ A data platform built to help SaaS businesses stop client churn before it happen
 ---
 ## 🚀 Featured Projects
 
-### 1. [OFC Airdrop Intelligence Dashboard](https://dune.com/giridharikhan/sample1) | SQL, Dune Analytics, Blockchain Data, Key Metrics — 2026
+### 1. [OFC Airdrop Intelligence Dashboard](https://github.com/Giridhari-khan/Dune-Dashboard-for-OFC-airdrop-report) | SQL, Dune Analytics, Blockchain Data, Key Metrics — 2026
 
 - Queried on-chain blockchain data using SQL on Dune Analytics to track OFC airdrop distributions and wallet activity
 - Built interactive dashboard with key metrics including airdrop volume, recipient count, and token flow trends
