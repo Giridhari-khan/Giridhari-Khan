@@ -133,14 +133,8 @@ A data platform built to help SaaS businesses stop client churn before it happen
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giridhari-khan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giridhari-khan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Giridhari-khan?cardType=octocat&theme=github&fontFamily=Actor&preferLogin=false)](https://git.io/awesome-stats-card)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Giridhari-khan&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 ---
 
 ## 🧭 My Journey
