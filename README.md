@@ -32,8 +32,8 @@ Currently levelling up through the **IBM & Career 247 Data Analytics Professiona
 | Project | Tools | Link |
 |---|---|---|
 | OFC Airdrop Intelligence Dashboard | SQL, Dune Analytics | [View →](https://dune.com/giridharikhan/sample1) |
-| Attendance app (Database design and Dashboard) | SQL, Supabase, visualization  ) | [Soon →](#) |
-| Students Social Media Addiction and its effects | Power BI, Power query | [Soon →](#) |
+| Attendance app (Database design and Dashboard) | SQL, Supabase, visualization  ) | [View →](https://github.com/Giridhari-khan/Database-KPI-and-Dashboard-for-attendance-app/tree/main) |
+| Students Social Media Addiction and its effects | Power BI, Power query | [View →](https://github.com/Giridhari-khan/Social-Media-Addiction-and-its-effects) |
 | Retainly — Client Retention Platform | SQL, Supabase, Python | [View →](https://theretainly.vercel.app/) |
 | EDA Practice Projects | Python, Pandas, Matplotlib | [View →](#) |
 
@@ -65,19 +65,13 @@ Currently levelling up through the **IBM & Career 247 Data Analytics Professiona
 
 ## 🔭 What I'm Currently Working On 
 
-### 1. [OFC Airdrop Intelligence Dashboard](https://github.com/Giridhari-khan/Dune-Dashboard-for-OFC-airdrop-report) | SQL, Dune Analytics, Blockchain Data, Key Metrics — 2026
-
-- Queried on-chain blockchain data using SQL on Dune Analytics to track OFC airdrop distributions and wallet activity
-- Built interactive dashboard with key metrics including airdrop volume, recipient count, and token flow trends
-- Identified patterns in wallet behavior and airdrop eligibility criteria to surface actionable insights for stakeholders
-
-<img width="1188" height="536" alt="image" src="https://github.com/user-attachments/assets/6d9cbac9-e764-4c09-b757-99aa261a1fae" />
-
-### 🔒 [Database design for Attendance app + Client KPI and Dashboard ]()
+### 🔒 [Database design for Attendance app + Client KPI and Dashboard](https://github.com/Giridhari-khan/Database-KPI-and-Dashboard-for-attendance-app)
 > **SQL · Supabase · Dashboard · Key Metrics**
 
+<img width="1188" height="536" alt="image" src="https://github.com/Giridhari-khan/Database-KPI-and-Dashboard-for-attendance-app/blob/main/assets/er-diagram.png" />
+
 - Built database schema and executed SQL queries in Supabase to store and retrieve client data for SaaS platform
-- Implemented Database schema relation with in 27+ tables
+- Implemented Database schema relation with in 30+ tables
 - Built interactive web dashboard, KPIs and automated calculations enabling clients to monitor real-time employee
 status and generate operational insights
 
