@@ -31,11 +31,13 @@ Currently levelling up through the **IBM & Career 247 Data Analytics Professiona
 
 | Project | Tools | Link |
 |---|---|---|
-| OFC Airdrop Intelligence Dashboard | SQL, Dune Analytics | [View →](https://dune.com/giridharikhan/sample1) |
-| Attendance app (Database design and Dashboard) | SQL, Supabase, visualization  ) | [View →](https://github.com/Giridhari-khan/Database-KPI-and-Dashboard-for-attendance-app/tree/main) |
-| Students Social Media Addiction and its effects | Power BI, Power query | [View →](https://github.com/Giridhari-khan/Social-Media-Addiction-and-its-effects) |
-| Retainly — Client Retention Platform | SQL, Supabase, Python | [View →](https://theretainly.vercel.app/) |
-| EDA Practice Projects | Python, Pandas, Matplotlib | [View →](#) |
+| (Working) Attendance app (Database design and Dashboard) | SQL, Supabase, visualization  ) | [View →](https://github.com/Giridhari-khan/Database-KPI-and-Dashboard-for-attendance-app/tree/main) |
+| 1. OFC Airdrop Intelligence Dashboard | SQL, Dune Analytics | [View →](https://dune.com/giridharikhan/sample1) |
+| 2. Students Social Media Addiction and its effects | Power BI, Power query | [View →](https://github.com/Giridhari-khan/Social-Media-Addiction-and-its-effects) |
+| 3. Customer Behavior EDA | Python (Pandas,Numpy,Matplotlib,seabord,SciPy) & Statistics | [View →](https://github.com/Giridhari-khan/Customer_Behavior_EDA)|
+| 4. Retail Book Store Analysis | SQL | [Privet →](#) |
+| 5. Retainly - Client Retention Platform | SQL, Supabase, Python | [View →](https://theretainly.vercel.app/) |
+| 6. Practice Projects | Python, Pandas, Matplotlib | [Privet →](#) |
 
 ---
 ### [🏆 Check Out My Full Portfolio Website (Soon Live)](https://Giridhari-Khan.github.io/)
@@ -87,15 +89,24 @@ status and generate operational insights
 <img width="1188" height="536" alt="image" src="https://github.com/user-attachments/assets/6d9cbac9-e764-4c09-b757-99aa261a1fae" />
 
 
-### 2. [Students Social Media Addiction and its effects.](https://github.com/Giridhari-khan)
-> **PowerBi · Excle · SQL · EDA**
+### 2. [Students Social Media Addiction and its effects.](https://github.com/Giridhari-khan/Social-Media-Addiction-and-its-effects)
+> **PowerBi · Power query · EDA**
 
 A growing collection of end-to-end data analysis exercises.
 - Dataset **cleaning, transformation, and feature engineering** using Pandas
 - **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
 - SQL query practice — filtering, aggregation, and joins on sample databases
 
-### 3. [Retail Book Store Analysis.](https://github.com/Giridhari-khan)
+### 3. [Customer Behavior EDA](https://github.com/Giridhari-khan/Customer_Behavior_EDA)
+> **Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy**
+
+An end-to-end Exploratory Data Analysis (EDA) project analyzing customer demographics, spending behavior, and engagement patterns to generate actionable business insights.
+- Performed **data cleaning and preprocessing**, including mixed date parsing, type conversion, and descriptive statistical analysis
+- Built **10+ visualizations** (histograms, box plots, scatter plots, KDE plots, and bar charts) to uncover customer trends and spending distributions
+- Conducted **correlation analysis, categorical data analysis, hypothesis testing(Independent T-Test, and ANOVA)** to validate relationships between customer attributes and spending behavior
+- Delivered **business recommendations** by identifying high-value customer segments, top-performing states, and engagement patterns to support data-driven marketing decisions
+
+### 4. [Retail Book Store Analysis.](https://github.com/Giridhari-khan)
 > **SQL · EDA**
 
 A growing collection of end-to-end data analysis exercises.
@@ -103,7 +114,8 @@ A growing collection of end-to-end data analysis exercises.
 - **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
 - SQL query practice — filtering, aggregation, and joins on sample databases
 
-### 4. [Retainly — Client Retention Analytics Platform](https://theretainly.vercel.app/)
+
+### 5. [Retainly - Client Retention Analytics Platform](https://theretainly.vercel.app/)
 > **SQL · Supabase · Sentiment Analysis · Python**
 
 A data platform built to help SaaS businesses stop client churn before it happens.
@@ -112,6 +124,11 @@ A data platform built to help SaaS businesses stop client churn before it happen
 - Engineered a data pipeline tracking **response rates, sentiment trends, and engagement metrics**
 - Translated raw behavioral data into actionable retention insights
 
+### 6. [Practice Projects](-#)
+> **Power Query · Statistics · SQL · Supabase RLS · Design**
+
+Practice .
+
 ---
 
 ## 📜 Certifications
@@ -119,9 +136,10 @@ A data platform built to help SaaS businesses stop client churn before it happen
 | Certification | Issuer | Status |
 |---|---|---|
 | Data Analytics Professional Certificate | IBM & Career 247 | 🟡 In Progress (July 2026) |
+| Generative AI Essentials | IBM | ✅ Jun 2026 |
 
 
-**IBM Certificate Modules:** Excel · Python · Statistics · (EDA) · SQL · Tableau · Power BI · Soft Skill · Capstone Projects
+**IBM Certificate Modules:** Excel · Python · Statistics · (EDA) · SQL · Tableau · Power BI · Looker Studio · Soft Skill · Capstone Projects
 
 ---
 
