@@ -15,15 +15,14 @@
 
 ## 👨‍💻 About Me
 
-Electronics & Communication Engineering graduate making a deliberate pivot into **Data Analytics**. My background in manufacturing operations gave me a real-world appreciation for what good data can do - I tracked production metrics, flagged bottlenecks, and built a data-driven mindset long before I wrote my first line of Python.
+Entry-Level Data Analyst with 1 year of manufacturing operations experience, where I monitored daily production and quality metrics, identified recurring defects and supported production planning. I now apply that analytical mindset to business and operational datasets using **SQL, Python (Pandas, NumPy), Advanced Excel, Power BI and Tableau**.
 
-Currently levelling up through the **IBM & Career 247 Data Analytics Professional Certificate** (Expected: July 2026), while building hands-on projects in SQL, Python, and BI tools.
+My work covers data cleaning, EDA, KPI development and dashboard creation. I'm currently completing the **IBM & Career 247 Data Analytics Professional Certificate**.
 
-- 🔭 Currently working on: client retention analytics & EDA practice projects
-- 🌱 Learning: Python (Pandas, NumPy), SQL, Tableau, Statistics & EDA
-- 🎯 Goal: Land a **Data Analyst Intern / Junior Data Analyst** role
-- 📍 Based in: Bengaluru, Karnataka, India
-- 💬 Ask me about: Excel, SQL queries, data pipelines, or my journey from manufacturing to data
+- 🔭 **Currently building:** Retainly, a client retention platform using SQL, Supabase and sentiment analysis to flag at-risk clients early
+- 🎯 **Looking for:** Data Analyst / Junior Data Analyst roles in Bengaluru
+- 📍 **Based in:** Bengaluru, Karnataka, India
+- 💬 **Ask me about:** SQL queries, Excel, Power BI dashboards, and my move from manufacturing to data
 
 ---
 
@@ -31,16 +30,17 @@ Currently levelling up through the **IBM & Career 247 Data Analytics Professiona
 
 | Project | Tools | Link |
 |---|---|---|
-| (Working) Attendance app (Database design and Dashboard) | SQL, Supabase, visualization  ) | [View →](https://github.com/Giridhari-khan/Database-KPI-and-Dashboard-for-attendance-app/tree/main) |
+| Financial Performance Analysis (Revenue, Cost & Budget Variance Dashboard) | SQL, Python, Power BI, Excel | [View →](https://github.com/Giridhari-khan/Financial_Performance_Analysis) |
+| (Working) Attendance app (Database design and Dashboard) | SQL, Dashboard, visualization, KPI | [View →](https://github.com/Giridhari-khan/Database-KPI-and-Dashboard-for-attendance-app/tree/main) |
 | 1. OFC Airdrop Intelligence Dashboard | SQL, Dune Analytics | [View →](https://dune.com/giridharikhan/sample1) |
 | 2. Students Social Media Addiction and its effects | Power BI, Power query | [View →](https://github.com/Giridhari-khan/Social-Media-Addiction-and-its-effects) |
 | 3. Customer Behavior EDA | Python (Pandas,Numpy,Matplotlib,seabord,SciPy) & Statistics | [View →](https://github.com/Giridhari-khan/Customer_Behavior_EDA)|
-| 4. Retail Book Store Analysis | SQL | [Privet →](#) |
+| 4. Real Estate Sales Analysis | Tableau, Excel, Dashboard | [View →](https://github.com/Giridhari-khan/Real_Estate_Sales_Analysis) |
 | 5. Retainly - Client Retention Platform | SQL, Supabase, Python | [View →](https://theretainly.vercel.app/) |
 | 6. Practice Projects | Python, Pandas, Matplotlib | [Privet →](#) |
 
 ---
-### [🏆 Check Out My Full Portfolio Website (Soon Live)](https://Giridhari-Khan.github.io/)
+### [🏆 Check Out My Full Portfolio Website → https://giridharikhan.vercel.app/](https://giridharikhan.vercel.app/)
 ---
 ## 🛠️ Tech Stack
 
@@ -106,13 +106,13 @@ An end-to-end Exploratory Data Analysis (EDA) project analyzing customer demogra
 - Conducted **correlation analysis, categorical data analysis, hypothesis testing(Independent T-Test, and ANOVA)** to validate relationships between customer attributes and spending behavior
 - Delivered **business recommendations** by identifying high-value customer segments, top-performing states, and engagement patterns to support data-driven marketing decisions
 
-### 4. [Retail Book Store Analysis.](https://github.com/Giridhari-khan)
-> **SQL · EDA**
+### 4. [Real Estate Sales Analysis.](https://github.com/Giridhari-khan/Real_Estate_Sales_Analysis)
+> **TABLEAU · DASHBOARD· KPI**
 
 A growing collection of end-to-end data analysis exercises.
-- Dataset **cleaning, transformation, and feature engineering** using Pandas
-- **Exploratory Data Analysis (EDA)** with Matplotlib and Seaborn visualizations
-- SQL query practice — filtering, aggregation, and joins on sample databases
+- An enterprise-grade data analytics project leveraging a **dataset of over 526,000** property transactions.
+- Uncover market trends, geographic sales performance
+- Assessment valuation accuracy and dashboard using Tableau.
 
 
 ### 5. [Retainly - Client Retention Analytics Platform](https://theretainly.vercel.app/)
@@ -135,7 +135,7 @@ Practice .
 
 | Certification | Issuer | Status |
 |---|---|---|
-| Data Analytics Professional Certificate | IBM & Career 247 | 🟡 In Progress (July 2026) |
+| Data Analytics Professional Certificate | IBM & Career 247 | 🟡 In Progress |
 | Generative AI Essentials | IBM | ✅ Jun 2026 |
 
 
@@ -175,5 +175,5 @@ If you're working on something data-driven or just want to talk shop — reach o
 
 <p align="center">
   <i>"Data is not just numbers - it's the story of what actually happened."</i><br/>
-  <sub>The tools are how.The thinking is what matters</sub>
+  <sub>The tools are how.The thinking is what matters.</sub>
 </p>
